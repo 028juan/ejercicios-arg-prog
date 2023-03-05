@@ -1,0 +1,12 @@
+/.metadata/
+.metadatos
+papelera/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.punta
+propiedades.locales
+.ajustes/
+.ruta de carga
+.recomendadores
